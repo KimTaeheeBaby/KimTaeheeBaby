@@ -1,0 +1,136 @@
+﻿  RightImageProcessor.cpp
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\mat.hpp(1955): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\rightimageprocessor.cpp(36): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\rightimageprocessor.cpp(85): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\rightimageprocessor.cpp(237): warning C4018: “<”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\rightimageprocessor.cpp(239): warning C4018: “<”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\rightimageprocessor.cpp(259): warning C4018: “<”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\rightimageprocessor.cpp(261): warning C4018: “<”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\rightimageprocessor.cpp(292): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\rightimageprocessor.cpp(293): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\rightimageprocessor.cpp(294): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\rightimageprocessor.cpp(323): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  ObjectTracker.cpp
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\mat.hpp(1955): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MotionEstimate.cpp
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\mat.hpp(1955): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\motionestimate.cpp(20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\motionestimate.cpp(21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\motionestimate.cpp(39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\motionestimate.cpp(42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\motionestimate.cpp(43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\motionestimate.cpp(48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\motionestimate.cpp(49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  main.cpp
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\mat.hpp(1955): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  LeftImageProcessor.cpp
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\mat.hpp(1955): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\leftimageprocessor.cpp(36): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\leftimageprocessor.cpp(85): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\leftimageprocessor.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\leftimageprocessor.cpp(237): warning C4018: “<”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\leftimageprocessor.cpp(257): warning C4018: “<”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\leftimageprocessor.cpp(259): warning C4018: “<”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\leftimageprocessor.cpp(289): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\leftimageprocessor.cpp(290): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\leftimageprocessor.cpp(291): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\leftimageprocessor.cpp(320): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  HeadLightManager.cpp
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\mat.hpp(1955): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\headlightmanager.cpp(19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\headlightmanager.cpp(62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  DetectedRight.cpp
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\mat.hpp(1955): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  DetectedPosition.cpp
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\mat.hpp(1955): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  DetectedPano.cpp
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\mat.hpp(1955): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(101): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(102): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(104): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(105): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(138): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(139): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(144): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(148): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(152): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(163): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(167): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(178): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(182): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\detectedpano.cpp(227): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  DetectedLeft.cpp
+c1xx : fatal error C1083: 无法打开源文件: “DetectedLeft.cpp”: No such file or directory
+  DetectedBack.cpp
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\mat.hpp(1955): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CPartClass.cpp
+  CBrightObjectSegment.cpp
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\mat.hpp(1955): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\cbrightobjectsegment.cpp(52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\cbrightobjectsegment.cpp(95): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\cbrightobjectsegment.cpp(142): warning C4018: “<=”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\cbrightobjectsegment.cpp(154): warning C4018: “<=”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\cbrightobjectsegment.cpp(170): warning C4018: “<=”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\cbrightobjectsegment.cpp(232): warning C4018: “<=”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\cbrightobjectsegment.cpp(267): warning C4018: “<=”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\cbrightobjectsegment.cpp(372): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\cbrightobjectsegment.cpp(393): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  CameraCalibration.cpp
+  BackImageProcessor.cpp
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\mat.hpp(1955): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\packages\opencvcontrib.3.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\backimageprocessor.cpp(89): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\backimageprocessor.cpp(247): warning C4018: “<”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\backimageprocessor.cpp(249): warning C4018: “<”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\backimageprocessor.cpp(269): warning C4018: “<”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\backimageprocessor.cpp(271): warning C4018: “<”: 有符号/无符号不匹配
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\backimageprocessor.cpp(307): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\backimageprocessor.cpp(308): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\backimageprocessor.cpp(309): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\backimageprocessor.cpp(343): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\backimageprocessor.cpp(265): warning C4715: “BackImageProcessor::thresholdValue”: 不是所有的控件路径都返回值
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\leftimageprocessor.cpp(253): warning C4715: “LeftImageProcessor::thresholdValue”: 不是所有的控件路径都返回值
+f:\allofgraduation\graduation project\nightvehicledetection-master\nightvehicledetection-master\nightobejctdetected_center\rightimageprocessor.cpp(255): warning C4715: “RightImageProcessor::thresholdValue”: 不是所有的控件路径都返回值
